@@ -1,0 +1,84 @@
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\App.xbf
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\MainPage.xbf
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\SecondPage.xbf
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\ThirdPage.xbf
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.xr.xml
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.exe
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\resources.pri
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\AppxManifest.xml
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.build.appxrecipe
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\App.g.i.cs
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MainPage.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\SecondPage.g.i.cs
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\SecondPage.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ThirdPage.g.i.cs
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ThirdPage.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\App.xaml
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\App.xbf
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MainPage.xaml
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\SecondPage.xaml
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ThirdPage.xaml
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MainPage.xbf
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\SecondPage.xbf
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ThirdPage.xbf
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\Professorweb_6_2.Windows.exe
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\Professorweb_6_2.Windows.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\priconfig.xml
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\layout.resfiles
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\resources.resfiles
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\pri.resfiles
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\qualifiers.txt
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\admin\documents\visual studio 2013\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ProjectArchitectures.txt
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\App.xbf
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\MainPage.xbf
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\SecondPage.xbf
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\ThirdPage.xbf
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.xr.xml
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.exe
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.pdb
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\resources.pri
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\AppxManifest.xml
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.build.appxrecipe
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\App.g.i.cs
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\App.g.cs
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MainPage.g.i.cs
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MainPage.g.cs
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\SecondPage.g.i.cs
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\SecondPage.g.cs
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ThirdPage.g.i.cs
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ThirdPage.g.cs
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\App.xaml
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MainPage.xaml
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\SecondPage.xaml
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ThirdPage.xaml
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\App.xbf
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MainPage.xbf
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\SecondPage.xbf
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ThirdPage.xbf
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\Professorweb_6_2.Windows.exe
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\Professorweb_6_2.Windows.pdb
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\priconfig.xml
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\layout.resfiles
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\resources.resfiles
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\pri.resfiles
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\qualifiers.txt
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\ProjectArchitectures.txt

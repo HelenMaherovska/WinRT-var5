@@ -1,0 +1,1458 @@
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\App.xbf
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\MainPage.xbf
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.xr.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.exe
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.pdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\resources.pri
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\AppxManifest.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Adapters.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\AssemblyInfo.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\StoreLogo.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\ClrCompression.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Data.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Helpers.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\ImplTypes.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.exe
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.ITFProxy.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.pdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.xr.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\PInvoke.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\resources.pri
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\SafeTypes.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\SharedStubs.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.build.appxrecipe
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.CSharp.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Core.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Web.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Windows.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.Linq.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.Serialization.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\mscorlib.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.VisualBasic.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.Win32.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.DataContractSerialization.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.AppContext.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Concurrent.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Immutable.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.NonGeneric.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Specialized.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.Annotations.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Data.Common.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Contracts.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Debug.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.StackTrace.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Tools.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Tracing.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Dynamic.Runtime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.Calendars.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.Extensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.Compression.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ClrCompression.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.Compression.ZipFile.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.FileSystem.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.IsolatedStorage.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Expressions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Parallel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Queryable.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Http.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Http.Rtc.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.NetworkInformation.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Requests.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Sockets.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.WebHeaderCollection.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.Vectors.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ObjectModel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.Networking.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.ServiceModel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.Uri.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Context.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.DispatchProxy.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Emit.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Extensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Metadata.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.TypeExtensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Resources.ResourceManager.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Extensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Handles.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.InteropServices.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Numerics.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Json.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Security.Claims.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Security.Principal.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Duplex.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Http.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.NetTcp.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Security.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.CodePages.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.Extensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.RegularExpressions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Overlapped.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Timer.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.ReaderWriter.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XDocument.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XmlDocument.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XmlSerializer.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.Direct2D1.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.DXGI.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.Direct2D1.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.DXGI.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\App.g.i.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\App.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.g.i.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\XamlTypeInfo.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\App.xaml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.xaml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\App.xbf
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.xbf
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\XamlSaveStateFile.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.exe
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.pdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ResourceHandlingTask.state
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.csproj.GenerateResource.Cache
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\priconfig.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\priconfig.xml.intermediate
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\layout.resfiles
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\layout.resfiles.intermediate
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\resources.resfiles
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\resources.resfiles.intermediate
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\pri.resfiles
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\pri.resfiles.intermediate
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\qualifiers.txt
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\qualifiers.txt.intermediate
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ProjectArchitectures.txt
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.xr.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\AppxManifest.xml
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.pdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.exe
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Core.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Windows.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\mscorlib.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.AppContext.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Data.Common.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.Compression.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Http.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Requests.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ObjectModel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.Networking.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.Uri.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Security.Claims.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Security.Principal.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.Direct2D1.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.DXGI.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\resources.pri
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\ClrCompression.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc.MyTextEditor.rsp
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\gkargs.rsp
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.closure.csv
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.csv
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.forwarders.csv
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilexe
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilexe.ILTransformTask.repro
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilpdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.McgInterop.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.McgInterop.ilpdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.metadata
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.reflectionlog.csv
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.res
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.Direct2D1.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.DXGI.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Networking.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.mdilexe
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.mdilpdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.rsp
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.ITFProxy.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop.pdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Adapters.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\AssemblyInfo.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Data.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Helpers.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\ImplTypes.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\PInvoke.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\SafeTypes.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\SharedStubs.g.cs
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\Native.res
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\Native\MyTextEditor.pdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\MyTextEditor.exe
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\MyTextEditor.pdb
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\rhbindargs.MyTextEditor.rsp
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\sgargs.rsp
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.csprojResolveAssemblyReference.cache
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\justify.png
+G:\3rd student's year\UNIVERSITY\programs 2017\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\justify.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.csprojResolveAssemblyReference.cache
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\App.g.i.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\App.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.g.i.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\XamlTypeInfo.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\App.xaml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.xaml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\App.xbf
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.xbf
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\XamlSaveStateFile.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.exe
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.pdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\App.xbf
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\MainPage.xbf
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.xr.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.exe
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.pdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\resources.pri
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\AppxManifest.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Adapters.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\AssemblyInfo.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\justify.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\mainphoto.jpg
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\StoreLogo.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\ClrCompression.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Data.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Helpers.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\ImplTypes.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.exe
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.ITFProxy.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.pdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.xr.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\PInvoke.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\resources.pri
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\SafeTypes.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\SharedStubs.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.build.appxrecipe
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.CSharp.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Core.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Web.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Windows.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.Linq.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.Serialization.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\mscorlib.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.VisualBasic.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.Win32.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.DataContractSerialization.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.AppContext.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Concurrent.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Immutable.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.NonGeneric.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Specialized.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.Annotations.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Data.Common.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Contracts.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Debug.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.StackTrace.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Tools.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Tracing.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Dynamic.Runtime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.Calendars.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.Extensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.Compression.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\ClrCompression.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.Compression.ZipFile.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.FileSystem.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.IsolatedStorage.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Expressions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Parallel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Queryable.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Http.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Http.Rtc.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.NetworkInformation.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Requests.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Sockets.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.WebHeaderCollection.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.Vectors.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ObjectModel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.Networking.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.ServiceModel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.Uri.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Context.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.DispatchProxy.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Emit.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Extensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Metadata.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.TypeExtensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Resources.ResourceManager.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Extensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Handles.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.InteropServices.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Numerics.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Json.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Security.Claims.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Security.Principal.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Duplex.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Http.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.NetTcp.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Security.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.CodePages.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.Extensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.RegularExpressions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Overlapped.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Timer.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.ReaderWriter.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XDocument.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XmlDocument.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XmlSerializer.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.DXGI.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.Direct2D1.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.DXGI.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ResourceHandlingTask.state
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.csproj.GenerateResource.Cache
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\priconfig.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\priconfig.xml.intermediate
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\layout.resfiles
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\layout.resfiles.intermediate
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\resources.resfiles
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\resources.resfiles.intermediate
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\pri.resfiles
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\pri.resfiles.intermediate
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\qualifiers.txt
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\qualifiers.txt.intermediate
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ProjectArchitectures.txt
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.xr.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\AppxManifest.xml
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.pdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.exe
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Core.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Windows.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\mscorlib.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.AppContext.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Data.Common.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.Compression.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Http.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Requests.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ObjectModel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.Networking.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.Uri.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Security.Claims.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Security.Principal.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.Direct2D1.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.DXGI.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\resources.pri
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\ClrCompression.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\justify.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\mainphoto.jpg
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc.MyTextEditor.rsp
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\gkargs.rsp
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.closure.csv
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.csv
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.forwarders.csv
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilexe
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilexe.ILTransformTask.repro
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilpdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.McgInterop.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.McgInterop.ilpdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.metadata
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.reflectionlog.csv
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.res
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.Direct2D1.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.DXGI.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Networking.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.mdilexe
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.mdilpdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.rsp
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.ITFProxy.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop.pdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Adapters.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\AssemblyInfo.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Data.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Helpers.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\ImplTypes.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\PInvoke.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\SafeTypes.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\SharedStubs.g.cs
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\Native.res
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\Native\MyTextEditor.pdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\MyTextEditor.exe
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\MyTextEditor.pdb
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\rhbindargs.MyTextEditor.rsp
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\sgargs.rsp
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+D:\Study\3 курс\СП\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\App.xbf
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\MainPage.xbf
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.xr.xml
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.exe
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.pdb
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\resources.pri
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\AppxManifest.xml
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Adapters.g.cs
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\AssemblyInfo.g.cs
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\justify.png
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\mainphoto.jpg
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\StoreLogo.png
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\ClrCompression.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Data.g.cs
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Helpers.g.cs
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\ImplTypes.g.cs
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.exe
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.ITFProxy.g.cs
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.pdb
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.xr.xml
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\PInvoke.g.cs
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\resources.pri
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\SafeTypes.g.cs
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\SharedStubs.g.cs
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.build.appxrecipe
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.CSharp.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Core.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Web.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Windows.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.Linq.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.Serialization.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\mscorlib.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.VisualBasic.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.Win32.Primitives.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.DataContractSerialization.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.AppContext.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Concurrent.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Immutable.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.NonGeneric.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Specialized.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.Annotations.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Data.Common.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Contracts.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Debug.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.StackTrace.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Tools.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Tracing.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Dynamic.Runtime.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.Calendars.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.Extensions.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.Compression.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\ClrCompression.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.Compression.ZipFile.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.FileSystem.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.IsolatedStorage.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Expressions.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Parallel.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Queryable.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Http.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Http.Rtc.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.NetworkInformation.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Primitives.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Requests.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Sockets.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.WebHeaderCollection.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.Vectors.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ObjectModel.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.Networking.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.ServiceModel.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.Uri.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Context.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.DispatchProxy.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Emit.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Extensions.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Metadata.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Primitives.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.TypeExtensions.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Resources.ResourceManager.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Extensions.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Handles.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.InteropServices.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Numerics.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Json.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Security.Claims.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Security.Principal.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Duplex.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Http.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.NetTcp.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Primitives.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Security.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.CodePages.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.Extensions.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.RegularExpressions.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Overlapped.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Timer.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.ReaderWriter.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XDocument.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XmlDocument.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XmlSerializer.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.DXGI.dll
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.xml
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.Direct2D1.xml
+D:\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.DXGI.xml
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.csprojResolveAssemblyReference.cache
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\App.g.i.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\App.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.g.i.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\XamlTypeInfo.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\App.xaml
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.xaml
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\App.xbf
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.xbf
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\XamlSaveStateFile.xml
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.exe
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.pdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ResourceHandlingTask.state
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.csproj.GenerateResource.Cache
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\priconfig.xml
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\priconfig.xml.intermediate
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\layout.resfiles
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\layout.resfiles.intermediate
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\resources.resfiles
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\resources.resfiles.intermediate
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\pri.resfiles
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\pri.resfiles.intermediate
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\qualifiers.txt
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\qualifiers.txt.intermediate
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ProjectArchitectures.txt
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.xr.xml
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\AppxManifest.xml
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.pdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.exe
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Core.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Windows.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\mscorlib.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.AppContext.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Data.Common.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.Compression.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Http.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Requests.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ObjectModel.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.Networking.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.Uri.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Security.Claims.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Security.Principal.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.Direct2D1.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.DXGI.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\resources.pri
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\ClrCompression.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\justify.png
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\mainphoto.jpg
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc.MyTextEditor.rsp
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\gkargs.rsp
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.closure.csv
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.csv
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.forwarders.csv
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilexe
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilexe.ILTransformTask.repro
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilpdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.McgInterop.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.McgInterop.ilpdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.metadata
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.reflectionlog.csv
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.res
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.Direct2D1.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.DXGI.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Networking.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.mdilexe
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.mdilpdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.rsp
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.ITFProxy.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop.pdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Adapters.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\AssemblyInfo.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Data.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Helpers.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\ImplTypes.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\PInvoke.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\SafeTypes.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\SharedStubs.g.cs
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\Native.res
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\Native\MyTextEditor.pdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\MyTextEditor.exe
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\MyTextEditor.pdb
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\rhbindargs.MyTextEditor.rsp
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\sgargs.rsp
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+D:\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\App.xbf
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\MainPage.xbf
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.xr.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.exe
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.pdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\resources.pri
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\AppxManifest.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Adapters.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\AssemblyInfo.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\justify.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\mainphoto.jpg
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\StoreLogo.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\ClrCompression.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Data.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\Helpers.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\ImplTypes.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.exe
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.ITFProxy.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.pdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\MyTextEditor.xr.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\PInvoke.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\resources.pri
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\SafeTypes.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ilc\SharedStubs.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\MyTextEditor.build.appxrecipe
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.CSharp.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Core.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Web.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Windows.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.Linq.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.Serialization.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\mscorlib.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.VisualBasic.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\Microsoft.Win32.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.DataContractSerialization.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.AppContext.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Concurrent.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Immutable.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.NonGeneric.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Collections.Specialized.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.Annotations.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Data.Common.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Contracts.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Debug.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.StackTrace.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Tools.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Diagnostics.Tracing.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Dynamic.Runtime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.Calendars.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Globalization.Extensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.Compression.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ClrCompression.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.Compression.ZipFile.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.FileSystem.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.IsolatedStorage.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Expressions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Parallel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Linq.Queryable.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Http.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Http.Rtc.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.NetworkInformation.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Requests.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.Sockets.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Net.WebHeaderCollection.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.Vectors.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ObjectModel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.Networking.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.ServiceModel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Private.Uri.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Context.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.DispatchProxy.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Emit.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Extensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Metadata.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Reflection.TypeExtensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Resources.ResourceManager.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Extensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Handles.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.InteropServices.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Numerics.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Json.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Security.Claims.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Security.Principal.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Duplex.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Http.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.NetTcp.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.ServiceModel.Security.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.CodePages.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.Encoding.Extensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Text.RegularExpressions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Overlapped.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Threading.Timer.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.ReaderWriter.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XDocument.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XmlDocument.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\System.Xml.XmlSerializer.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.DXGI.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.Direct2D1.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\SharpDX.DXGI.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.csprojResolveAssemblyReference.cache
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\App.g.i.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\App.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.g.i.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\XamlTypeInfo.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\App.xaml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.xaml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\App.xbf
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\MainPage.xbf
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\XamlSaveStateFile.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.exe
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.pdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ResourceHandlingTask.state
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\MyTextEditor.csproj.GenerateResource.Cache
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\priconfig.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\priconfig.xml.intermediate
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\layout.resfiles
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\layout.resfiles.intermediate
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\resources.resfiles
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\resources.resfiles.intermediate
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\pri.resfiles
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\pri.resfiles.intermediate
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\qualifiers.txt
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\qualifiers.txt.intermediate
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ProjectArchitectures.txt
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.xr.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\AppxManifest.xml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.pdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\MyTextEditor.exe
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Core.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Windows.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\mscorlib.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.AppContext.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Data.Common.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.Compression.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Http.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Requests.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ObjectModel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.Networking.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Private.Uri.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Security.Claims.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Security.Principal.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.Direct2D1.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\SharpDX.DXGI.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\resources.pri
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\ClrCompression.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\justify.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\LockScreenLogo.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\in\Assets\mainphoto.jpg
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc.MyTextEditor.rsp
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\gkargs.rsp
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.closure.csv
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.csv
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.forwarders.csv
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilexe
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilexe.ILTransformTask.repro
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.ilpdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.McgInterop.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.McgInterop.ilpdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.metadata
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.reflectionlog.csv
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\MyTextEditor.res
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.Direct2D1.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.DXGI.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\SharpDX.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Networking.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.mdilexe
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.mdilpdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MDIL\MyTextEditor.rsp
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.ITFProxy.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop.pdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Adapters.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\AssemblyInfo.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Data.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\Helpers.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\ImplTypes.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\PInvoke.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\SafeTypes.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\MyTextEditor.McgInterop\SharedStubs.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\Native.res
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\Native\MyTextEditor.pdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\MyTextEditor.exe
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\MyTextEditor.pdb
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\rhbindargs.MyTextEditor.rsp
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\sgargs.rsp
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\SecondPage.g.i.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\SecondPage.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\SecondPage.xaml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\SecondPage.xbf
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\SecondPage.xbf
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\bin\x86\Release\ThirdPage.xbf
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ThirdPage.g.i.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ThirdPage.g.cs
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ThirdPage.xaml
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\obj\x86\Release\ThirdPage.xbf

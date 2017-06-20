@@ -1,0 +1,1 @@
+D:\ПЗ\іспитWinRT\Variant5\MyTextEditor\MyTextEditor\MyTextEditor\MyTextEditor.csproj;x86

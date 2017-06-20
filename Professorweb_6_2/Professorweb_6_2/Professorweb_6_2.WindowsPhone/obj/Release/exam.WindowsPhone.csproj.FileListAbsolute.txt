@@ -1,0 +1,12 @@
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\App.g.i.cs
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\App.g.cs
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\MainPage.g.i.cs
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\MainPage.g.cs
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\App.xaml
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\App.xbf
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\Professorweb_6_2.WindowsPhone.exe
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\Professorweb_6_2.WindowsPhone.pdb
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\MainPage.xaml
+D:\Downloads\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.WindowsPhone\obj\Release\MainPage.xbf

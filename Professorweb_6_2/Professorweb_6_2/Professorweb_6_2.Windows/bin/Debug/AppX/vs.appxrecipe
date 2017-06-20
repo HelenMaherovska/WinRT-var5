@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-QMKBHGT</Machine>
+    <WindowsUser>taras</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2423c74b-2a6a-45e2-8d98-54614b7ad01e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Admin</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>A5876B856E86112A715B721B383A47C2843B3630EC33E5E008E859E5EA7D1E55</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2423c74b-2a6a-45e2-8d98-54614b7ad01e_1.0.0.0_neutral__5gyrq6psz227t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2423c74b-2a6a-45e2-8d98-54614b7ad01e_5gyrq6psz227t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2423c74b-2a6a-45e2-8d98-54614b7ad01e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Admin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-19T15:17:39.016</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.exe">
+      <PackagePath>Professorweb_6_2.Windows.exe</PackagePath>
+      <Modified>2017-06-19T15:20:16.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\roses.png">
+      <PackagePath>Assets\roses.png</PackagePath>
+      <Modified>2017-06-11T18:31:03.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\roses70.png">
+      <PackagePath>Assets\roses70.png</PackagePath>
+      <Modified>2017-06-11T18:31:00.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\rosesSmall.scale-100.png">
+      <PackagePath>Assets\rosesSmall.scale-100.png</PackagePath>
+      <Modified>2017-06-11T18:31:01.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\rosesWide.png">
+      <PackagePath>Assets\rosesWide.png</PackagePath>
+      <Modified>2017-06-11T18:31:01.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2017-06-11T18:31:03.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <Modified>2017-06-11T18:31:03.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\Professorweb_6_2.Windows.xr.xml">
+      <PackagePath>Professorweb_6_2.Windows.xr.xml</PackagePath>
+      <Modified>2017-06-19T15:17:36.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-06-19T15:17:36.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-06-19T15:17:36.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\SecondPage.xbf">
+      <PackagePath>SecondPage.xbf</PackagePath>
+      <Modified>2017-06-19T15:17:36.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\ThirdPage.xbf">
+      <PackagePath>ThirdPage.xbf</PackagePath>
+      <Modified>2017-06-19T15:17:36.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programming\c#\winrt\Projects\Professorweb_6_2\Professorweb_6_2\Professorweb_6_2.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-19T15:17:37.850</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

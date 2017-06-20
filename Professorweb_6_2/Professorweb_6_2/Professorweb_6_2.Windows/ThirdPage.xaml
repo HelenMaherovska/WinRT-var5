@@ -1,0 +1,74 @@
+﻿<local:SaveStatePage
+    x:Name="page"
+    x:Class="Professorweb_6_2.ThirdPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Professorweb_6_2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    
+        <StackPanel x:Name="mystackpanel" Background="Goldenrod">
+            <TextBlock Text="Третя сторінка"
+                       FontSize="60" Margin="40"
+                       HorizontalAlignment="Center" />
+
+            <TextBox Name="txt"
+                     HorizontalAlignment="Center"
+                     FontSize="24"
+                     Width="550"
+                     Margin="40" />
+
+            <Button x:Name="buttoninfo" Content="Перейти на головну сторінку"
+                    HorizontalAlignment="Center"
+                    Foreground="Black"
+                    FontSize="30"
+                    Margin="20"
+                    Click="MainPageButton_Click" />
+
+            <Button Content="Перейти на другу сторінку"
+                    HorizontalAlignment="Center"
+                    Foreground="Blue"
+                    FontSize="30"
+                    Margin="30"
+                    Click="SecondPageButton_Click" />
+
+            <Button Name="forwardBtn"
+                    IsEnabled="{Binding Path=Frame.CanGoForward, ElementName=page}"
+                    Content="Вперед"
+                    HorizontalAlignment="Center"
+                    FontSize="30"
+                    Margin="20"
+                    Click="ForwardBtn_Click" />
+
+            <Button Name="backBtn"
+                    IsEnabled="{Binding Path=Frame.CanGoBack, ElementName=page}"
+                    Content="Назад"
+                    HorizontalAlignment="Center"
+                    FontSize="30"
+                    Margin="20"
+                    Click="BackBtn_Click" />
+
+        <Button Content="Передати дані на головну сторінку сторінку"
+                    HorizontalAlignment="Center"
+                    Foreground="Blue"
+                    FontSize="30"
+                    Margin="15" Click="Button_Click"
+                     >
+            <FlyoutBase.AttachedFlyout>
+                <Flyout x:Name="dialogBox">
+                    <StackPanel >
+                        <TextBlock Text="Ви справді хочете зберегти дані" MaxLines="3"  FontSize="27"/>
+                        <Button Content="OK" Click="OK_Click"/>
+                        <Button Content="Cancel"  Click="Exit_Click" />
+                    </StackPanel>
+                </Flyout>
+            </FlyoutBase.AttachedFlyout>
+        </Button>
+
+
+    </StackPanel>
+       
+    
+</local:SaveStatePage>

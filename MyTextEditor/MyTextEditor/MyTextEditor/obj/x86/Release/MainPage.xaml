@@ -1,0 +1,99 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="MyTextEditor.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyTextEditor"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+    mc:Ignorable="d"
+    x:Name="MyPage" >
+    <Page.Resources>
+        <Style TargetType="AppBarButton" AutomationProperties.Name="AppButtonStyle">
+            <Setter Property="Background" Value="PaleGreen"/>
+            <Setter Property="ClickMode" Value="Press"/>
+            <Setter Property="ToolTipService.Placement" Value="Mouse"/>
+            <Setter Property="BorderBrush" Value="MediumAquamarine"/>
+            <Setter Property="BorderThickness" Value="5"/>
+
+        </Style>
+        <Style TargetType="AppBarToggleButton" AutomationProperties.Name="AppToggleButtonStyle">
+            <Setter Property="Background" Value="PaleGreen"/>
+            <Setter Property="ClickMode" Value="Press"/>
+            <Setter Property="ToolTipService.Placement" Value="Mouse"/>
+            <Setter Property="BorderBrush" Value="MediumAquamarine"/>
+            <Setter Property="BorderThickness" Value="5"/>
+        </Style>
+        <Style TargetType="ToolTip" AutomationProperties.Name="TooltipStyle">
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+    </Page.Resources>
+
+    <!--<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" RequestedTheme="{Binding ElementName=MyPage, Path=RequestedTheme, Mode=OneWay}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>-->
+    <Page.TopAppBar>
+
+        <CommandBar Grid.Row="0"  Background="DarkSeaGreen" Width="{Binding ElementName=MyPage,Path=Width}" RequestedTheme="{Binding ElementName=MyPage, Path=RequestedTheme}">
+
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='2' x:Name="fontIncButton" Icon="FontIncrease"  ToolTipService.ToolTip="Збільшити шрифт"                              />
+                <AppBarButton x:ConnectionId='3' x:Name="fontDecButton" Icon="FontDecrease"  ToolTipService.ToolTip="Зменшити шрифт"                              />
+                <AppBarToggleButton x:ConnectionId='4' x:Name="fontcolButton" Icon="FontColor" ToolTipService.ToolTip="Колір тексту"                              />
+                <AppBarToggleButton x:ConnectionId='5' x:Name="backcolButton" Icon="Highlight" ToolTipService.ToolTip="Виділити кольором"                               >
+
+                </AppBarToggleButton>
+
+                <AppBarToggleButton x:ConnectionId='6' x:Name="boldButton" Icon="Bold" ToolTipService.ToolTip="Жирний"                           />
+                <AppBarToggleButton x:ConnectionId='7' x:Name="italicButton" Icon="Italic" ToolTipService.ToolTip="Курсив"                             />
+                <AppBarToggleButton x:ConnectionId='8' x:Name="underlineButton" Icon="Underline" ToolTipService.ToolTip="Підкреслений"                                />
+
+                <!--<AppBarButton x:Name="speechButton" Icon="Volume"  ToolTipService.ToolTip="Озвучити виділене" Tapped="speechButton_Tapped">
+                    <AppBarButton.Content>
+                        <MediaElement x:Name="media" Visibility="Collapsed"/>
+                    </AppBarButton.Content>
+                </AppBarButton>-->
+                <!--<AppBarToggleButton x:Name="justifyAlign"  Width="{Binding ElementName=centerAlign, Path=Width}" Height="{Binding ElementName=centerAlign, Path=Height}" Background="Transparent" 
+                                    ToolTipService.ToolTip="Вирівнювання по ширині" Tapped="AlignText_Tapped">
+                    <AppBarToggleButton.Content>
+                        <Image Source="ms-appx:///Assets/justify.png" Stretch="Uniform" Margin="0,-6,0,-4" RenderTransformOrigin="0.475,1.007"/>
+                    </AppBarToggleButton.Content>
+                </AppBarToggleButton>-->
+
+
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+
+                <AppBarButton x:ConnectionId='9' x:Name="newdocButton" Icon="Document" Label="Створити..."                             />
+                <AppBarButton x:ConnectionId='10' x:Name="opendocButton" Icon="OpenFile" Label="Відкрити..."                              />
+                <AppBarButton x:ConnectionId='11' x:Name="saveButton" Icon="Save" Label="Зберегти як..."                           />
+                <AppBarButton x:ConnectionId='12' x:Name="cutButton" Icon="Cut" Label="Вирізати" ToolTipService.ToolTip="Вирізати"                           />
+                <AppBarButton x:ConnectionId='13' x:Name="copyButton" Icon="Copy" Label="Скопіювати" ToolTipService.ToolTip="Скопіювати"                           />
+                <AppBarButton x:ConnectionId='14' x:Name="pasteButton" Icon="Paste" Label="Вставити" ToolTipService.ToolTip="Вставити"                            />
+
+                <AppBarSeparator/>
+                <AppBarButton x:ConnectionId='15' x:Name="closeButton" Icon="ClosedCaption" Label="Вийти"                            />
+            </CommandBar.SecondaryCommands>
+            <CommandBar.Content>
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock  FontSize="16" HorizontalAlignment="Left" TextAlignment="Center" Text="Шрифт: " FontWeight="Bold" Margin="10 7 0 2"/>
+
+                    <ComboBox x:ConnectionId='16' x:Name="fontfamilyCmbBox" PlaceholderText="Arial" SelectedValue="Arial" FontSize="16" Margin="10 5 5 0"/>
+                    <ComboBox x:ConnectionId='17' x:Name="fontsizeCmbBox" PlaceholderText="16" SelectedValue="16" FontSize="16" Margin="10 5 10 0"/>
+                    <Button x:ConnectionId='18' Background="Salmon" Content="Вперед"                       Margin="10" />
+
+                </StackPanel>
+
+            </CommandBar.Content>
+        </CommandBar>
+
+    </Page.TopAppBar>
+    <Grid Background="{Binding ElementName=MyPage, Path=RequestedTheme}">
+        <RichEditBox x:ConnectionId='19' x:Name="editText"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{Binding ElementName=MyPage, Path=RequestedTheme}"
+                      FontSize="{Binding ElementName=fontsizeCmbBox, Path=SelectedValue, Mode=TwoWay}"
+                      FontFamily="{Binding ElementName=fontfamilyCmbBox, Path=SelectedValue, Mode=TwoWay}"/>
+    </Grid>
+</Page>
+
